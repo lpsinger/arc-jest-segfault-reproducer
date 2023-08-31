@@ -3,9 +3,11 @@
   "version": "0.0.0",
   "description": "A fresh new Architect project!",
   "scripts": {
-    "start": "npx sandbox"
+    "start": "npx sandbox",
+    "test": "jest"
   },
   "devDependencies": {
-    "@architect/architect": "^10.14.1"
+    "@architect/architect": "^10.14.1",
+    "jest": "^29.6.4"
   }
 }

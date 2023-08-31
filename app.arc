@@ -8,3 +8,6 @@ get /
 # profile default
 region us-west-2
 architecture arm64
+
+@plugins
+plugin-foo
